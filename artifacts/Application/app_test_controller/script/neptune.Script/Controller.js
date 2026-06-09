@@ -1,4 +1,9 @@
 const app = "myapptest";
 const controller = "test";
 const controller2 = "test";
-console.log(controller2)
+newFunction();
+
+function newFunction() {
+    console.log(controller2);
+}
+
