@@ -7,9 +7,19 @@
 	},
 	"name": "app.aps",
 	"description": null,
-	"ver": "26.06.09.1841",
+	"ver": "26.06.09.1843",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "b88b5539-c6b4-47b7-8ca2-3ddffb50f58f",
+			"application": "app_test_controller",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "f1f70878-4bfb-48b2-b041-34208316cc45"
+			}
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
