@@ -5,6 +5,6 @@ const controller23 = "test";
 newFunction();
 
 function newFunction() {
-    console.log(controller2);
+    console.log(controller23);
 }
 
