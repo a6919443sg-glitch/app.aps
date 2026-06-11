@@ -6,5 +6,6 @@ newFunction();
 
 function newFunction() {
     console.log(controller23);
+    console.log("clean_changes");
 }
 
